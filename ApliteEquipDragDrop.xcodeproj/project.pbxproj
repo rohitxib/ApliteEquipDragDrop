@@ -19,6 +19,7 @@
 		F0BD161B29ED5503000768FF /* DropView.xib in Resources */ = {isa = PBXBuildFile; fileRef = F0BD161A29ED5503000768FF /* DropView.xib */; };
 		F0C0C2FB29F290B000B58079 /* ViewControllerFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0C0C2FA29F290B000B58079 /* ViewControllerFirst.swift */; };
 		F0C0C2FD29F290F800B58079 /* ViewControllerSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0C0C2FC29F290F800B58079 /* ViewControllerSecond.swift */; };
+		F0D73F262BC904F500805C1C /* CameraHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0D73F252BC904F500805C1C /* CameraHandler.swift */; };
 		F0DDDFA12BB29A2000715E1F /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DDDFA02BB29A2000715E1F /* NetworkManager.swift */; };
 		F0DDDFA32BB2D5DF00715E1F /* ViewController33.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DDDFA22BB2D5DF00715E1F /* ViewController33.swift */; };
 		F0E53DD529F39F32008939DC /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0E53DD429F39F32008939DC /* Models.swift */; };
@@ -39,6 +40,7 @@
 		F0BD161A29ED5503000768FF /* DropView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DropView.xib; sourceTree = "<group>"; };
 		F0C0C2FA29F290B000B58079 /* ViewControllerFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFirst.swift; sourceTree = "<group>"; };
 		F0C0C2FC29F290F800B58079 /* ViewControllerSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSecond.swift; sourceTree = "<group>"; };
+		F0D73F252BC904F500805C1C /* CameraHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraHandler.swift; sourceTree = "<group>"; };
 		F0DDDFA02BB29A2000715E1F /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		F0DDDFA22BB2D5DF00715E1F /* ViewController33.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController33.swift; sourceTree = "<group>"; };
 		F0E53DD429F39F32008939DC /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				F0BD161329ED28D9000768FF /* TableViewCellMap.swift */,
 				F0BD161429ED28D9000768FF /* TableViewCellMap.xib */,
 				F0DDDFA22BB2D5DF00715E1F /* ViewController33.swift */,
+				F0D73F252BC904F500805C1C /* CameraHandler.swift */,
 			);
 			path = ApliteEquipDragDrop;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				F0BD160429ED1E92000768FF /* ViewController.swift in Sources */,
 				F0DDDFA32BB2D5DF00715E1F /* ViewController33.swift in Sources */,
 				F0BD160029ED1E92000768FF /* AppDelegate.swift in Sources */,
+				F0D73F262BC904F500805C1C /* CameraHandler.swift in Sources */,
 				F0BD161529ED28D9000768FF /* TableViewCellMap.swift in Sources */,
 				F0E53DD529F39F32008939DC /* Models.swift in Sources */,
 				F0C0C2FD29F290F800B58079 /* ViewControllerSecond.swift in Sources */,
@@ -344,11 +348,15 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7C7X97TQ38;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ApliteEquipDragDrop/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Eye on task uses camera to capture important job documents for you.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Eye on task access Photo library to allow you to attach documents to the work orders. ";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Eye on task access Photo library to allow you to attach documents to the work orders. ";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -376,11 +384,15 @@
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7C7X97TQ38;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ApliteEquipDragDrop/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Eye on task uses camera to capture important job documents for you.";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Eye on task access Photo library to allow you to attach documents to the work orders. ";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Eye on task access Photo library to allow you to attach documents to the work orders. ";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

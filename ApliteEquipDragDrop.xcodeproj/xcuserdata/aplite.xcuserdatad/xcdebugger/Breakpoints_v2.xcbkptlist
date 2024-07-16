@@ -30,8 +30,8 @@
             filePath = "ApliteEquipDragDrop/ViewControllerSecond.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "74"
-            endingLineNumber = "74"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
             landmarkName = "imagePickerController(picker:didFinishPickingMediaWithInfo:editingInfo:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -46,10 +46,102 @@
             filePath = "ApliteEquipDragDrop/ViewControllerSecond.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "73"
-            endingLineNumber = "73"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
             landmarkName = "imagePickerController(picker:didFinishPickingMediaWithInfo:editingInfo:)"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB46C677-E8D4-4B8E-B6D6-3B7DB22B5306 - c43d0f6e94590b1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewControllerSecond.imagePickerController(picker: __C.UIImagePickerController, didFinishPickingMediaWithInfo: __C.UIImage, editingInfo: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewControllerSecond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "DB46C677-E8D4-4B8E-B6D6-3B7DB22B5306 - c43d0f6e94590b1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewControllerSecond.imagePickerController(picker: __C.UIImagePickerController, didFinishPickingMediaWithInfo: __C.UIImage, editingInfo: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewControllerSecond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DB46C677-E8D4-4B8E-B6D6-3B7DB22B5306 - 44994c43e064b6a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewControllerSecond.imagePickerController(picker: __C.UIImagePickerController, didFinishPickingMediaWithInfo: __C.UIImage, editingInfo: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewControllerSecond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DB46C677-E8D4-4B8E-B6D6-3B7DB22B5306 - ad634af1fe62ea17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewControllerSecond.imagePickerController(picker: __C.UIImagePickerController, didFinishPickingMediaWithInfo: __C.UIImage, editingInfo: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewControllerSecond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DB46C677-E8D4-4B8E-B6D6-3B7DB22B5306 - f8359e2fa3352570"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewControllerSecond.imagePickerController(picker: __C.UIImagePickerController, didFinishPickingMediaWithInfo: __C.UIImage, editingInfo: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewControllerSecond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DB46C677-E8D4-4B8E-B6D6-3B7DB22B5306 - 1963134c1f6ff592"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewControllerSecond.imagePickerController(picker: __C.UIImagePickerController, didFinishPickingMediaWithInfo: __C.UIImage, editingInfo: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewControllerSecond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -121,6 +213,96 @@
                   moduleName = "ApliteEquipDragDrop"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "122C76CB-7890-4BFC-8B84-174E72E5CA87 - cf4f3277e89ecdde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "122C76CB-7890-4BFC-8B84-174E72E5CA87 - ebebda17ee255667"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "122C76CB-7890-4BFC-8B84-174E72E5CA87 - 2f14ff678a30be9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "122C76CB-7890-4BFC-8B84-174E72E5CA87 - e87af2e0da92e56d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "122C76CB-7890-4BFC-8B84-174E72E5CA87 - adf1df819ce910df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "122C76CB-7890-4BFC-8B84-174E72E5CA87 - 3a4456a0f7276eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "36"
@@ -205,23 +387,97 @@
                   endingLineNumber = "36"
                   offsetFromSymbolStart = "76">
                </Location>
+               <Location
+                  uuid = "90EDDA9D-D079-4339-B125-7F1E2BAFCA82 - cf4f3277e89ecdde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "90EDDA9D-D079-4339-B125-7F1E2BAFCA82 - ebebda17ee255667"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "90EDDA9D-D079-4339-B125-7F1E2BAFCA82 - 2f14ff678a30be9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "90EDDA9D-D079-4339-B125-7F1E2BAFCA82 - e87af2e0da92e56d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "90EDDA9D-D079-4339-B125-7F1E2BAFCA82 - adf1df819ce910df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "90EDDA9D-D079-4339-B125-7F1E2BAFCA82 - 3a4456a0f7276eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController33.viewDidLoad() -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController33.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "76">
+               </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7CF8EEBF-9114-44CC-89A9-BBD6A8F48152"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "379"
-            endingLineNumber = "379"
-            landmarkName = "fillDataModels()"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -234,10 +490,57 @@
             filePath = "ApliteEquipDragDrop/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "418"
-            endingLineNumber = "418"
-            landmarkName = "renderEquipmentOnMAP()"
-            landmarkType = "7">
+            startingLineNumber = "591"
+            endingLineNumber = "591"
+            landmarkName = "CustomPanGestureRecognizer"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2A651C13-04D6-44E2-B47F-85D77E14D0F3 - fdee3ff341bc1ef3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.CustomPanGestureRecognizer.__allocating_init(target: Swift.Optional&lt;Any&gt;, action: Swift.Optional&lt;ObjectiveC.Selector&gt;) -&gt; ApliteEquipDragDrop.CustomPanGestureRecognizer"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "2A651C13-04D6-44E2-B47F-85D77E14D0F3 - 39f9143b2205a902"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.CustomPanGestureRecognizer.init(target: Swift.Optional&lt;Any&gt;, action: Swift.Optional&lt;ObjectiveC.Selector&gt;) -&gt; ApliteEquipDragDrop.CustomPanGestureRecognizer"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "592"
+                  endingLineNumber = "592"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "2A651C13-04D6-44E2-B47F-85D77E14D0F3 - 8023e3fd9a1b3b53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.CustomPanGestureRecognizer.__deallocating_deinit"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -315,101 +618,157 @@
                   endingLineNumber = "44"
                   offsetFromSymbolStart = "804">
                </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - 21e2e65e6226180f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - 21e2e65e6226180f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - 706b4cf4565ff930"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - 6360db56015ab7a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - 6360db56015ab7a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - e1e20254b893e85b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - e1e20254b893e85b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - 1048ebcc19fd3f9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - 1048ebcc19fd3f9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "40B6A8E4-2285-40E8-B3A3-036ACEEA45A3 - a13a7b337dfa4741"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "804">
+               </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "736CFF16-A772-4835-B26E-8E0FC404997D"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/CustomView/NetworkManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "90"
-            endingLineNumber = "90"
-            landmarkName = "serverCommunicatorUplaodSignatureAndAttachment(stringUrl:method:parameters:imageSig:imageAtchmnt:signaturePath:atchmntPath:completion:)"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "736CFF16-A772-4835-B26E-8E0FC404997D - 696049c7fde34631"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/Drag_Drop_Final/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "91"
-                  endingLineNumber = "91"
-                  offsetFromSymbolStart = "5716">
-               </Location>
-               <Location
-                  uuid = "736CFF16-A772-4835-B26E-8E0FC404997D - 696049c7fde346d6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/Drag_Drop_Final/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "90"
-                  endingLineNumber = "90"
-                  offsetFromSymbolStart = "5716">
-               </Location>
-               <Location
-                  uuid = "736CFF16-A772-4835-B26E-8E0FC404997D - 69f805c650b65b29"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Downloads/Drag_Drop_Final/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "90"
-                  endingLineNumber = "90"
-                  offsetFromSymbolStart = "5716">
-               </Location>
-               <Location
-                  uuid = "736CFF16-A772-4835-B26E-8E0FC404997D - bfafb55b3308df4b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "90"
-                  endingLineNumber = "90"
-                  offsetFromSymbolStart = "5716">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "02A78A9B-3AFB-42D4-9A74-3E7965B109EB"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "411"
-            endingLineNumber = "411"
-            landmarkName = "renderEquipmentOnMAP()"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -422,42 +781,10 @@
             filePath = "ApliteEquipDragDrop/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "518"
-            endingLineNumber = "518"
+            startingLineNumber = "790"
+            endingLineNumber = "790"
             landmarkName = "downloadmapData()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "7E2BF396-1AAB-4B58-8779-57283800E7E3 - a151701b7ea0c15c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "545"
-                  endingLineNumber = "545"
-                  offsetFromSymbolStart = "2384">
-               </Location>
-               <Location
-                  uuid = "7E2BF396-1AAB-4B58-8779-57283800E7E3 - a151701b7ea0c1d0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "549"
-                  endingLineNumber = "549"
-                  offsetFromSymbolStart = "2384">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -470,57 +797,10 @@
             filePath = "ApliteEquipDragDrop/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "171"
-            endingLineNumber = "171"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
             landmarkName = "btnActionSaveMapToServer(_:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "D4AE68CF-B7AA-46AB-9818-A6A33861AD02 - adf73d7411bdb92a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ApliteEquipDragDrop.ViewController.btnActionSaveMapToServer(Any) -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "161"
-                  endingLineNumber = "161"
-                  offsetFromSymbolStart = "2724">
-               </Location>
-               <Location
-                  uuid = "D4AE68CF-B7AA-46AB-9818-A6A33861AD02 - adf73d7411bdb92a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ApliteEquipDragDrop.ViewController.btnActionSaveMapToServer(Any) -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "161"
-                  endingLineNumber = "161"
-                  offsetFromSymbolStart = "2748">
-               </Location>
-               <Location
-                  uuid = "D4AE68CF-B7AA-46AB-9818-A6A33861AD02 - adf73d7411bdb79c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ApliteEquipDragDrop.ViewController.btnActionSaveMapToServer(Any) -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "171"
-                  endingLineNumber = "171"
-                  offsetFromSymbolStart = "2748">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -533,42 +813,10 @@
             filePath = "ApliteEquipDragDrop/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "454"
-            endingLineNumber = "454"
-            landmarkName = "downloadmapData()"
+            startingLineNumber = "630"
+            endingLineNumber = "630"
+            landmarkName = "renderEquipmentOnMAP()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "E034DF28-D98F-4695-B484-9977D29F4435 - a151701b7ea0d511"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "454"
-                  endingLineNumber = "454"
-                  offsetFromSymbolStart = "512">
-               </Location>
-               <Location
-                  uuid = "E034DF28-D98F-4695-B484-9977D29F4435 - a151701b7ea0d5f6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "455"
-                  endingLineNumber = "455"
-                  offsetFromSymbolStart = "460">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -581,57 +829,10 @@
             filePath = "ApliteEquipDragDrop/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "453"
-            endingLineNumber = "453"
-            landmarkName = "downloadmapData()"
+            startingLineNumber = "629"
+            endingLineNumber = "629"
+            landmarkName = "renderEquipmentOnMAP()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "D393AD94-C783-484E-A195-323D04DF5902 - a151701b7ea0d530"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "453"
-                  endingLineNumber = "453"
-                  offsetFromSymbolStart = "460">
-               </Location>
-               <Location
-                  uuid = "D393AD94-C783-484E-A195-323D04DF5902 - a36f9b118b1ebcfb"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "453"
-                  endingLineNumber = "453"
-                  offsetFromSymbolStart = "84">
-               </Location>
-               <Location
-                  uuid = "D393AD94-C783-484E-A195-323D04DF5902 - a151701b7ea0d5f6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "455"
-                  endingLineNumber = "455"
-                  offsetFromSymbolStart = "460">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -644,72 +845,9 @@
             filePath = "ApliteEquipDragDrop/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "503"
-            endingLineNumber = "503"
+            startingLineNumber = "775"
+            endingLineNumber = "775"
             landmarkName = "downloadmapData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "65FB07DC-47B6-4E9C-9215-7C2A7C42BEDA - 7c8d6f014e6d9f8"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "503"
-                  endingLineNumber = "503"
-                  offsetFromSymbolStart = "2680">
-               </Location>
-               <Location
-                  uuid = "65FB07DC-47B6-4E9C-9215-7C2A7C42BEDA - 7c8d6f014e6d9f8"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "503"
-                  endingLineNumber = "503"
-                  offsetFromSymbolStart = "2344">
-               </Location>
-               <Location
-                  uuid = "65FB07DC-47B6-4E9C-9215-7C2A7C42BEDA - 7c8d6f014e6d9f8"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "503"
-                  endingLineNumber = "503"
-                  offsetFromSymbolStart = "2356">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E0B081B1-04C8-481C-B555-B8DE0EFB387F"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "77"
-            endingLineNumber = "77"
-            landmarkName = "btnActionOpenTable(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -723,185 +861,9 @@
             filePath = "ApliteEquipDragDrop/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "456"
-            endingLineNumber = "456"
-            landmarkName = "downloadmapData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "AEAC3746-7DB9-4831-ADDB-6F7CCACEA03C - a151701b7ea0d5d7"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "456"
-                  endingLineNumber = "456"
-                  offsetFromSymbolStart = "1212">
-               </Location>
-               <Location
-                  uuid = "AEAC3746-7DB9-4831-ADDB-6F7CCACEA03C - a151701b7ea0d5d7"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
-                  moduleName = "ApliteEquipDragDrop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "456"
-                  endingLineNumber = "456"
-                  offsetFromSymbolStart = "512">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "0590E13D-8D16-4878-8AB6-EECCB24621BB"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/CustomView/NetworkManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "callApi(completion:)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "EEE551E8-B55B-4AC7-B5BC-E33A2207FDDC"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "1AAF6598-1DB5-4086-83CA-09C8621EEC38"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "144"
-            endingLineNumber = "144"
-            landmarkName = "btnActionSaveMapToServer(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "F31B96F5-469C-4EF0-8CB6-653AD663AD53"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "131"
-            endingLineNumber = "131"
-            landmarkName = "multiplyby(ratio:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C51DF381-AAEE-4316-AD4E-0CBBDCD6A4C9"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "136"
-            endingLineNumber = "136"
-            landmarkName = "multiplyby(ratio:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "6D1991C4-F80C-44FC-891B-08762F5BD115"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "105"
-            endingLineNumber = "105"
-            landmarkName = "multiplyby(ratio:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "AEE42F8D-7A0B-45E6-8579-20A63B08D4E9"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "129"
-            endingLineNumber = "129"
-            landmarkName = "multiplyby(ratio:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "64BADF15-2778-4D23-ACEC-FDB1C669DB07"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "139"
-            endingLineNumber = "139"
-            landmarkName = "multiplyby(ratio:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "8624FB3C-4563-404E-BC9B-049876E9E88B"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ApliteEquipDragDrop/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "140"
-            endingLineNumber = "140"
-            landmarkName = "multiplyby(ratio:)"
+            startingLineNumber = "632"
+            endingLineNumber = "632"
+            landmarkName = "renderEquipmentOnMAP()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -915,42 +877,978 @@
             filePath = "ApliteEquipDragDrop/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "513"
-            endingLineNumber = "513"
+            startingLineNumber = "785"
+            endingLineNumber = "785"
             landmarkName = "downloadmapData()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39C2B6B6-92DF-48CD-AFD9-FACD3933AB68"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "651"
+            endingLineNumber = "651"
+            landmarkName = "ViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "serverCommunicatorUplaodSignatureAndAttachment(stringUrl:method:parameters:imageSig:imageAtchmnt:signaturePath:atchmntPath:completion:)"
+            landmarkType = "9">
             <Locations>
                <Location
-                  uuid = "14D891F0-359C-45FF-A154-FA7DE0ACEDA4 - ba34961fa9c47470"
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - 21e2e65e62260691"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
                   moduleName = "ApliteEquipDragDrop"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "513"
-                  endingLineNumber = "513"
-                  offsetFromSymbolStart = "1312">
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5456">
                </Location>
                <Location
-                  uuid = "14D891F0-359C-45FF-A154-FA7DE0ACEDA4 - 7c8d6f014e6df22"
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - 21e2e65e62260691"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; () in ApliteEquipDragDrop.ViewController.downloadmapData() -&gt; ()"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
                   moduleName = "ApliteEquipDragDrop"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aplite/Desktop/DRAG_5apr/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "513"
-                  endingLineNumber = "513"
-                  offsetFromSymbolStart = "3384">
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5312">
+               </Location>
+               <Location
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - 706b4cf4565fe45a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5456">
+               </Location>
+               <Location
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - 6360db56015ab233"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5312">
+               </Location>
+               <Location
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - 6360db56015ab233"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5456">
+               </Location>
+               <Location
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - e1e20254b89016ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5456">
+               </Location>
+               <Location
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - e1e20254b89016ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5312">
+               </Location>
+               <Location
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - 1048ebcc19fd3a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5312">
+               </Location>
+               <Location
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - 1048ebcc19fd3a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5456">
+               </Location>
+               <Location
+                  uuid = "118CAF1E-44EF-4EEE-A151-875B71207A4D - a13a7b337dfa4deb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5312">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "serverCommunicatorUplaodSignatureAndAttachment(stringUrl:method:parameters:imageSig:imageAtchmnt:signaturePath:atchmntPath:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 21e2e65e6226006c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "8312">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 21e2e65e6226000d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8984">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 89a705ec2a4f1c84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 21e2e65e6226000d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8840">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 706b4cf4565fe136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8984">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - d82eaf461e36fdf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 6360db56015abfaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8840">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - cb2538e44933a366"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 6360db56015abfaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8984">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - e1e20254b8901059"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8984">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 49a7e1e6f0f90f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - e1e20254b8901059"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8840">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 1048ebcc19fd279c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8840">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - b80d087e51943b17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 1048ebcc19fd279c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8984">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - a13a7b337dfa4f47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "8840">
+               </Location>
+               <Location
+                  uuid = "27AB3D43-14A8-474D-BAD1-D922A3587857 - 97f98813593524e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FCC4DA0-A2E2-4115-A205-12E3D885A031"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "serverCommunicatorUplaodSignatureAndAttachment(stringUrl:method:parameters:imageSig:imageAtchmnt:signaturePath:atchmntPath:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8FCC4DA0-A2E2-4115-A205-12E3D885A031 - 21e2e65e6226004f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "8980">
+               </Location>
+               <Location
+                  uuid = "8FCC4DA0-A2E2-4115-A205-12E3D885A031 - 89a705ec2a4f1f46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "8FCC4DA0-A2E2-4115-A205-12E3D885A031 - 89a705ec2a4f1ca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "8FCC4DA0-A2E2-4115-A205-12E3D885A031 - d82eaf461e36fd98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "8FCC4DA0-A2E2-4115-A205-12E3D885A031 - cb2538e44933a301"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "8FCC4DA0-A2E2-4115-A205-12E3D885A031 - 49a7e1e6f0f90f73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "8FCC4DA0-A2E2-4115-A205-12E3D885A031 - b80d087e51943b36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "8FCC4DA0-A2E2-4115-A205-12E3D885A031 - 97f988135935269"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "serverCommunicatorUplaodSignatureAndAttachment(stringUrl:method:parameters:imageSig:imageAtchmnt:signaturePath:atchmntPath:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - 89a705ec2a4f1f61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - 89a705ec2a4f1f61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - 89a705ec2a4f1f61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/Drag_10April/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - d82eaf461e36fc5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - d82eaf461e36fc5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - cb2538e44933a3c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - cb2538e44933a3c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_H+V_29Apr/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - 49a7e1e6f0f90f2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - 49a7e1e6f0f90f2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Desktop/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - b80d087e51943bf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - b80d087e51943bf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_3_May/drag_hori_test/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - 97f98813593522b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "D51C5633-112C-404F-80DB-56EA5CB3E4F8 - 97f98813593522b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApliteEquipDragDrop.serverCommunicatorUplaodSignatureAndAttachment(stringUrl: Swift.String, method: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageSig: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, imageAtchmnt: Swift.Optional&lt;Swift.Array&lt;ApliteEquipDragDrop.ImageModel&gt;&gt;, signaturePath: Swift.String, atchmntPath: Swift.String, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aplite/Documents/Drag_Drop_Final_17may/Drag_Drop_H+V/ApliteEquipDragDrop/ApliteEquipDragDrop/CustomView/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AF854C3-DEC0-4D2A-AF17-C102695A283D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "320"
+            endingLineNumber = "320"
+            landmarkName = "btnActionSaveMapToServer(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16448D37-011F-471C-BF44-6923779009F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "319"
+            endingLineNumber = "319"
+            landmarkName = "btnActionSaveMapToServer(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9EDED0B-0CDA-44F1-A864-0F4A01F3FF53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87C5F5C5-27DE-43FD-B8C5-2C6F9EE3AA10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F47CBBE-9190-4D75-836D-3E55D851F526"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30D89C6C-FD64-4811-A189-08986AF2BC90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB977764-220C-4B66-A96C-1A29BBFA42A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "handlePinch_zooming(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E256861F-9857-4687-9E17-634C14DEA863"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "handlePinch_zooming(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F65E8C7-FE5B-4A7D-9ADA-5321EDE55A64"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "handlePinch_zooming(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64E534B2-20B3-4E44-9160-0D1F969C394E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewControllerSecond.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

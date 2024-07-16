@@ -14,9 +14,104 @@
             filePath = "ApliteEquipDragDrop/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "123"
-            endingLineNumber = "123"
-            landmarkName = "multiplyby(ratio:)"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1725EF89-4797-4BFE-AD5F-416F4A618A46 - 2a27280810c7924f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController.multiplyby(ratio: Swift.Float) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rohit/Downloads/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "1725EF89-4797-4BFE-AD5F-416F4A618A46 - 40fbb7dd88cd926a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController.btnActionScapleDown(Any) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rohit/Downloads/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "1725EF89-4797-4BFE-AD5F-416F4A618A46 - 40fbb7dd88cd8f5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApliteEquipDragDrop.ViewController.btnActionScapleDown(Any) -&gt; ()"
+                  moduleName = "ApliteEquipDragDrop"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rohit/Downloads/drag_hori_test/HOri_Drag/ApliteEquipDragDrop/ApliteEquipDragDrop/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6C10A3D-62AC-436B-AF81-632F331AF513"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "035350EA-7351-4257-99B0-E194E9FD025D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C82D3CCC-133B-49F2-8C19-D769677DAA8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApliteEquipDragDrop/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

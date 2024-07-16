@@ -12,19 +12,55 @@ class ViewControllerSecond: UIViewController {
     @IBOutlet weak var btnGOMap: UIButton!
     @IBOutlet weak var img: UIImageView!
     var imagePicker = UIImagePickerController()
-    
     override func viewDidLoad() {
         super.viewDidLoad()
+      //  self.rotateToLandsScapeDevice()
+
         self.imagePicker.delegate = self
-       
+       //7876878
+      let safeAria =  UIApplication.shared.windows.first{$0.isKeyWindow }?.safeAreaInsets
+        print(safeAria)
+        let guide = view.safeAreaLayoutGuide
+        let height = guide.layoutFrame.size.height
+        print("")
     }
+    override func viewWillDisappear(_ animated: Bool) {
+          super.viewWillDisappear(animated)
+      //  self.rotateToPotraitScapeDevice()
+      }
+    func rotateToLandsScapeDevice(){
+        let appDelegate = UIApplication.shared.delegate as! AppDelegate
+        appDelegate.myOrientation = .landscapeLeft
+        UIDevice.current.setValue(UIInterfaceOrientation.landscapeLeft.rawValue, forKey: "orientation")
+        UIView.setAnimationsEnabled(true)
+    }
+    
+    func rotateToPotraitScapeDevice(){
+        let appDelegate = UIApplication.shared.delegate as! AppDelegate
+        appDelegate.myOrientation = .portrait
+        UIDevice.current.setValue(UIInterfaceOrientation.portrait.rawValue, forKey: "orientation")
+        UIView.setAnimationsEnabled(true)
+    }
+
     @IBAction func btnActionTakePicture(_ sender: Any) {
         takePicture()
     }
     @IBAction func btnActionGoMap(_ sender: Any) {
         let mapVC = self.storyboard!.instantiateViewController(withIdentifier: "ViewController") as! ViewController
       //  mapVC.dimention = img.frame.size
-        mapVC.imageMap = img.image ?? UIImage(named: "3dRoom2")!
+    //    mapVC.imageMap = img.image ?? UIImage(named: "3dRoom2")!
+        let img2 =  img.image ?? UIImage(named: "3dRoom2")!
+        mapVC.imageMap =  img2.fixedOrientation()!
+        self.navigationController!.pushViewController(mapVC, animated: true)
+    }
+    
+    @IBAction func btnActionDownload_Map(_ sender: Any) {
+
+        let mapVC = self.storyboard!.instantiateViewController(withIdentifier: "ViewController") as! ViewController
+    
+        let img2 = UIImage(named: "3dRoom2")!
+        mapVC.imageMap =  img2.fixedOrientation()!
+        mapVC.download_map = true
         self.navigationController!.pushViewController(mapVC, animated: true)
     }
 }
@@ -76,3 +112,70 @@ extension ViewControllerSecond:UIImagePickerControllerDelegate, UINavigationCont
     }
     
 }
+
+extension UIImage {
+    
+    func fixedOrientation() -> UIImage? {
+        
+        guard imageOrientation != UIImage.Orientation.up else {
+            //This is default orientation, don't need to do anything
+            return self.copy() as? UIImage
+        }
+        
+        guard let cgImage = self.cgImage else {
+            //CGImage is not available
+            return nil
+        }
+        
+        guard let colorSpace = cgImage.colorSpace, let ctx = CGContext(data: nil, width: Int(size.width), height: Int(size.height), bitsPerComponent: cgImage.bitsPerComponent, bytesPerRow: 0, space: colorSpace, bitmapInfo: CGImageAlphaInfo.premultipliedLast.rawValue) else {
+            return nil //Not able to create CGContext
+        }
+        
+        var transform: CGAffineTransform = CGAffineTransform.identity
+        
+        switch imageOrientation {
+        case .down, .downMirrored:
+            transform = transform.translatedBy(x: size.width, y: size.height)
+            transform = transform.rotated(by: CGFloat.pi)
+            break
+        case .left, .leftMirrored:
+            transform = transform.translatedBy(x: size.width, y: 0)
+            transform = transform.rotated(by: CGFloat.pi / 2.0)
+            break
+        case .right, .rightMirrored:
+            transform = transform.translatedBy(x: 0, y: size.height)
+            transform = transform.rotated(by: CGFloat.pi / -2.0)
+            break
+        case .up, .upMirrored:
+            break
+        }
+        
+        //Flip image one more time if needed to, this is to prevent flipped image
+        switch imageOrientation {
+        case .upMirrored, .downMirrored:
+            transform = transform.translatedBy(x: size.width, y: 0)
+            transform = transform.scaledBy(x: -1, y: 1)
+            break
+        case .leftMirrored, .rightMirrored:
+            transform = transform.translatedBy(x: size.height, y: 0)
+            transform = transform.scaledBy(x: -1, y: 1)
+        case .up, .down, .left, .right:
+            break
+        }
+        
+        ctx.concatenate(transform)
+        
+        switch imageOrientation {
+        case .left, .leftMirrored, .right, .rightMirrored:
+            ctx.draw(self.cgImage!, in: CGRect(x: 0, y: 0, width: size.height, height: size.width))
+        default:
+            ctx.draw(self.cgImage!, in: CGRect(x: 0, y: 0, width: size.width, height: size.height))
+            break
+        }
+        
+        guard let newCGImage = ctx.makeImage() else { return nil }
+        return UIImage.init(cgImage: newCGImage, scale: 1, orientation: .up)
+    }
+}
+
+

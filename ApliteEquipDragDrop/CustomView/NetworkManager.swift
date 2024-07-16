@@ -14,7 +14,7 @@ let BaseUrl = "https://staging.eyeontask.com/eotServices/"
 
 
 func callApi(completion:@escaping(Data?, Error?, Bool)->Void)  {
-    var param = ["jobId" : "100"]
+    var param = ["jobId" : "100"]//100
 
     var request = URLRequest(url: URL(string: "http://192.168.88.2:8435/eotServices/CommonController/getJobMap")!)
    // request.httpMethod = "GET"
